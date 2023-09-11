@@ -1,0 +1,4 @@
+streamlit==1.23.1
+pymongo==3.11
+dnspython==2.3.0
+python-dotenv==1.0.0
